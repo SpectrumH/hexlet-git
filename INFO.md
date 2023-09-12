@@ -1,2 +1,3 @@
-git is awesome!
-new line
+Hexlet exercise
+Tested part commit
+$Some code
